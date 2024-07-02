@@ -23,6 +23,30 @@ This Pet Management App is web based sys to manage pet records. It allows user t
 
 - **API Documentation**: Swagger
 
+## Why These Technologies?
+
+### React
+
+I chose React for the frontend because:
+
+- It allows for building complex, interactive UIs in a modular way using components.
+- It has a strong ecosystem and great community support.
+- I have extensive experience with React, which makes me more productive
+- I could have used Angular but React makes sense when you are building a poc or MVP
+
+### Node.js
+
+I chose Node.js for the backend because:
+
+- It allows for building scalable network applications using JavaScript on both the client and server-side.
+- It has a vast ecosystem of libraries and frameworks, such as Express, which simplifies building
+
+### MongoDB
+
+I chose MongoDB because:
+
+- Its schema-less nature allows developers to iterate quickly without worrying about database migrations during initial development and prototyping phases. This can significantly speed up the development process.
+
 ## Setup and Installation
 
 ### Prerequisites
