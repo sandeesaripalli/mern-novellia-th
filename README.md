@@ -1,6 +1,6 @@
 # Pet Management
 
-This Pet Management App is web based sys to manage pet records. It allows user to create, read, update and delete (CRUD) pet info. user can include vaccine, allergies and image details, app includes a admin interface to manage all the records.
+This Pet Management App is a web-based system to manage pet records. It allows users to create, read, update, and delete (CRUD) pet info. Users can include vaccines, allergies, and image details, the app includes an admin interface to manage all the records.
 
 ## Features
 
@@ -38,14 +38,14 @@ I chose React for the frontend because:
 
 I chose Node.js for the backend because:
 
-- It allows for building scalable network applications using JavaScript on both the client and server-side.
-- It has a vast ecosystem of libraries and frameworks, such as Express, which simplifies building
+- It allows for building scalable network applications using JavaScript on both the client and server side.
+- It has a vast ecosystem of libraries and frameworks, such as Express, which simplifies building web applications and APIs.
 
 ### MongoDB
 
 I chose MongoDB because:
 
-- Its schema-less nature allows developers to iterate quickly without worrying about database migrations during initial development and prototyping phases. This can significantly speed up the development process.
+- Its schema-less nature allows developers to iterate quickly without worrying about database migrations during the initial development and prototyping phases. This can significantly speed up the development process.
 
 ## Setup and Installation
 
