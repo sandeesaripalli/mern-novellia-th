@@ -53,7 +53,7 @@ cd server
 npm install
 ```
 
-3. Create a `.env` file in the `backend` directory and add your MongoDB configuration:
+3. Create a `.env` file in the `root` directory and add your MongoDB configuration:
 
 ```env
 DB_USER=<your_db_user>
